@@ -1,8 +1,8 @@
 # Cursor: "Homework 06" (Andrey Kiyas)
 ___
 ### Git link(s):
-- [Pull request 01 (Part 01)](https://github.com/andrey-kiyas/com.CursorHomeWorks06/pull/1)
-- [Pull request 02 (Part 02)](https://github.com/andrey-kiyas/com.CursorHomeWorks06/pull/2)
+- [Pull request 01 (Part 01)](https://github.com/andrey-kiyas/CursorHomeWorks06/pull/1)
+- [Pull request 02 (Part 02)](https://github.com/andrey-kiyas/CursorHomeWorks06/pull/2)
 ___
 ### EN
 HOMEWORK #1:
